@@ -1,0 +1,114 @@
+2022-09-23 19:19:22.005 | INFO     | __main__:<module>:18 - Запуск бота
+2022-09-23 19:19:26.244 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:19:26.245 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:19:26.926 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
+2022-09-23 19:19:29.911 | DEBUG    | handlers.start:get_command:58 - Нажата кнопка (команда): lowprice
+2022-09-23 19:19:29.912 | INFO     | handlers.get_hotel_info:do_get_location:15 - Вход в функцию do_get_location
+2022-09-23 19:19:41.804 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:19:41.805 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:19:41.805 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: lopi
+2022-09-23 19:19:41.806 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:19:41.806 | DEBUG    | utils.requests:search_location:15 - Город поиска: lopi
+2022-09-23 19:20:48.737 | INFO     | __main__:<module>:18 - Запуск бота
+2022-09-23 19:20:51.053 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:20:51.054 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:20:51.962 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
+2022-09-23 19:20:54.017 | DEBUG    | handlers.start:get_command:58 - Нажата кнопка (команда): lowprice
+2022-09-23 19:20:54.018 | INFO     | handlers.get_hotel_info:do_get_location:15 - Вход в функцию do_get_location
+2022-09-23 19:20:58.043 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:20:58.044 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:20:58.045 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: lopi
+2022-09-23 19:20:58.047 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:20:58.048 | DEBUG    | utils.requests:search_location:15 - Город поиска: lopi
+2022-09-23 19:22:03.703 | INFO     | __main__:<module>:18 - Запуск бота
+2022-09-23 19:22:23.348 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:22:23.349 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:22:24.279 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
+2022-09-23 19:22:27.284 | DEBUG    | handlers.start:get_command:58 - Нажата кнопка (команда): lowprice
+2022-09-23 19:22:27.285 | INFO     | handlers.get_hotel_info:do_get_location:15 - Вход в функцию do_get_location
+2022-09-23 19:22:29.890 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:22:29.891 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:22:29.894 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: pol
+2022-09-23 19:22:29.895 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:22:29.895 | DEBUG    | utils.requests:search_location:15 - Город поиска: pol
+2022-09-23 19:23:35.215 | INFO     | __main__:<module>:18 - Запуск бота
+2022-09-23 19:23:37.152 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:23:37.153 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:23:37.795 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
+2022-09-23 19:23:39.992 | DEBUG    | handlers.start:get_command:58 - Нажата кнопка (команда): lowprice
+2022-09-23 19:23:39.993 | INFO     | handlers.get_hotel_info:do_get_location:15 - Вход в функцию do_get_location
+2022-09-23 19:23:41.958 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:23:41.962 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:23:41.962 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: pol
+2022-09-23 19:23:41.963 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:23:41.964 | DEBUG    | utils.requests:search_location:15 - Город поиска: pol
+2022-09-23 19:23:43.688 | DEBUG    | utils.requests:search_location:40 - >search_location - найдено локаций: <class 'dict'>
+2022-09-23 19:25:03.071 | INFO     | __main__:<module>:18 - Запуск бота
+2022-09-23 19:34:08.326 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:34:08.327 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:34:08.328 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:34:08.329 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:34:09.055 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
+2022-09-23 19:34:09.468 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
+2022-09-23 19:35:39.855 | DEBUG    | handlers.start:get_command:58 - Нажата кнопка (команда): lowprice
+2022-09-23 19:35:39.855 | INFO     | handlers.get_hotel_info:do_get_location:15 - Вход в функцию do_get_location
+2022-09-23 19:35:42.429 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:35:42.430 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:35:42.430 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: зщд
+2022-09-23 19:35:42.430 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:35:42.430 | DEBUG    | utils.requests:search_location:15 - Город поиска: зщд
+2022-09-23 19:35:43.875 | DEBUG    | utils.requests:search_location:40 - >search_location - найдено локаций: 13
+2022-09-23 19:36:37.027 | INFO     | __main__:<module>:18 - Запуск бота
+2022-09-23 19:36:40.233 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:36:40.234 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:36:41.099 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
+2022-09-23 19:36:45.853 | DEBUG    | handlers.start:get_command:58 - Нажата кнопка (команда): history
+2022-09-23 19:36:47.212 | INFO     | handlers.history:show_history:42 - Выбран период истории: key_week
+2022-09-23 19:36:47.382 | INFO     | database.db:get_records:60 - Получение записей истории за неделю
+2022-09-23 19:36:47.384 | DEBUG    | handlers.history:show_history:47 - По выбранному периоду найдено записей: 4
+2022-09-23 19:36:53.645 | INFO     | handlers.lowprice:command_lowprice:10 - Вызвана команда: /lowprice
+2022-09-23 19:36:53.645 | INFO     | handlers.get_hotel_info:do_get_location:15 - Вход в функцию do_get_location
+2022-09-23 19:37:05.105 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:37:05.106 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:37:05.108 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: pol
+2022-09-23 19:37:05.109 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:37:05.109 | DEBUG    | utils.requests:search_location:15 - Город поиска: pol
+2022-09-23 19:37:07.263 | INFO     | handlers.get_hotel_info:get_location:52 - > get_location - Указанный город не найден
+2022-09-23 19:37:07.846 | INFO     | handlers.get_hotel_info:do_get_location:15 - Вход в функцию do_get_location
+2022-09-23 19:37:13.257 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:37:13.257 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:37:13.258 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: pol
+2022-09-23 19:37:13.258 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:37:13.258 | DEBUG    | utils.requests:search_location:15 - Город поиска: pol
+2022-09-23 19:37:15.142 | DEBUG    | utils.requests:search_location:41 - >search_location - найдено локаций: 4
+2022-09-23 19:37:19.906 | INFO     | handlers.get_hotel_info:get_city_name:33 - Вход в функцию get_city_name
+2022-09-23 19:37:19.907 | INFO     | handlers.get_hotel_info:get_location:45 - Вход в функцию get_location - Получение уточненной локации по введенному городу
+2022-09-23 19:37:19.908 | DEBUG    | handlers.get_hotel_info:get_location:46 - Введена локация: lop
+2022-09-23 19:37:19.908 | INFO     | utils.requests:search_location:14 - Вход в функцию search_location
+2022-09-23 19:37:19.909 | DEBUG    | utils.requests:search_location:15 - Город поиска: lop
+2022-09-23 19:37:21.288 | DEBUG    | utils.requests:search_location:41 - >search_location - найдено локаций: 6
+2022-09-23 19:37:30.083 | DEBUG    | handlers.get_hotel_info:callback_set_location:239 - > callback_set_location - место поиска: Лопар, Хорватия=624387
+2022-09-23 19:37:30.565 | INFO     | handlers.get_hotel_info:get_date_in:66 - Вход в функцию get_date_in
+2022-09-23 19:37:38.504 | DEBUG    | handlers.get_hotel_info:cal:290 - >calendar - дата заезда: 2022-09-23
+2022-09-23 19:37:38.505 | INFO     | handlers.get_hotel_info:get_date_out:74 - Вход в функцию get_date_out
+2022-09-23 19:37:44.988 | DEBUG    | handlers.get_hotel_info:cal:285 - >calendar - дата выезда: 2022-09-28
+2022-09-23 19:37:44.989 | INFO     | handlers.get_hotel_info:get_count_hotels:87 - Вход в функцию get_count_hotels
+2022-09-23 19:37:44.989 | INFO     | keyboards.count_key:create_kb_count:7 - Вход в функцию Создание Inline-кнопок для ответов за запросы
+2022-09-23 19:37:46.866 | DEBUG    | handlers.get_hotel_info:callback_set_hotels_count:224 - >callback_set_hotels_count - Колич. отображаемых отелей: 4
+2022-09-23 19:37:47.485 | INFO     | handlers.get_hotel_info:get_photo:96 - Вход в функцию get_photo - Запрос о показе фото отелей
+2022-09-23 19:37:52.918 | DEBUG    | handlers.get_hotel_info:callback_set_hotels_count:141 - >callback_set_hotels_count - Запрос о показе фото - ответ: no_photo
+2022-09-23 19:37:53.217 | INFO     | utils.print_hotels:get_fine_hotels:12 - Вход в функцию get_fine_hotels
+2022-09-23 19:37:53.455 | DEBUG    | utils.requests:do_search_hotels:50 - Вход в функцию do_search_hotels с командой: lowprice
+2022-09-23 19:37:53.456 | INFO     | utils.requests:do_search_hotels:91 - Оправка запроса на сервер
+2022-09-23 19:37:56.219 | DEBUG    | utils.print_hotels:get_fine_hotels:17 - >get_fine_hotels - Найденных отелей:4
+2022-09-23 19:37:56.220 | DEBUG    | utils.print_hotels:get_fine_hotels:27 - > get_fine_hotels - Количество ночей в отеле:5
+2022-09-23 19:37:57.234 | INFO     | database.db:add_record:40 - Выполнено добавление записи в БД
+2022-09-23 19:37:57.401 | INFO     | utils.print_hotels:get_fine_hotels:103 - > get_fine_hotels - Поиск успешно завершен.
+2022-09-23 19:42:35.950 | INFO     | handlers.history:command_lowprice:11 - Вызвана команда: /history
+2022-09-23 19:42:39.636 | INFO     | handlers.history:show_history:42 - Выбран период истории: key_day
+2022-09-23 19:42:39.777 | INFO     | database.db:get_records:54 - Получение записей истории за день
+2022-09-23 19:42:39.779 | DEBUG    | handlers.history:show_history:47 - По выбранному периоду найдено записей: 3
+2022-09-23 19:58:54.270 | INFO     | __main__:<module>:18 - Запуск бота
+2022-09-23 19:59:01.137 | INFO     | states.states:set_user_id:50 - Установка состояний бота
+2022-09-23 19:59:01.139 | DEBUG    | handlers.start:command_start:16 - Запуск от пользователя: Sinec76 Vyacheslav L id= 1551250217
+2022-09-23 19:59:01.825 | INFO     | handlers.start:command_start:27 - Команда Start и вывод главного меню
